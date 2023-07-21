@@ -179,24 +179,22 @@ button.shine-on-click:active::after {
 }
 
 /*LOJAS*/
-h1 .titulo-lojas {
+.titulo-lojas {
   text-align: center;
 }
 
-ul .linha-lojas {
+.ul-loja{
   list-style: none;
   padding: 0;
 }
 
-li .loja-li{
+.li-loja{
   margin: 10px 0;
   background-color: #f2f2f2;
   padding: 10px;
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
-
-
 
 footer{
     text-align: center;
